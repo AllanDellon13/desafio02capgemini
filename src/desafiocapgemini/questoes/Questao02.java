@@ -3,6 +3,10 @@ package desafiocapgemini.questoes;
 import java.util.Scanner;
 
 public class Questao02 {
+	
+	/*
+	 * Questão que encontra o número de elementos pares igual ao valor de "x" dado por entrada do usuário;
+	 */
 
 	public static void numPares(int[] vetor) {
 		

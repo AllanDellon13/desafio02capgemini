@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Questao03 {
+	/*
+	 * Questão que encripta a String;
+	 */
 	
 	public static void encryptString(String name) {
 		String remove_Espace = name.replaceAll("\\s+","");

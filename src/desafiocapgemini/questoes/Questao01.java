@@ -6,6 +6,9 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Questao01 {
+	/*
+	 * Questão que calcula a Mediana de uma lista.
+	 */
 
 	public static void calcMediana(List<Float> numeros) {
 
