@@ -4,7 +4,7 @@ Para executar é necessário fazer o download do projeto, descompactar e importa
 
 Tecnologias utilizadas:
 - Linguagem: Java;
-- IDE: Java EE (Enterprise Edition);
+- IDE: Eclpise - Java EE (Enterprise Edition);
 - Classes: String, Math, Float;
 - Classes Importadas: Scanner, ArrayList, List, Collections;
 - Funções do Java utilizadas: replaceAll(), sqrt();
